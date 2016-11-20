@@ -23,7 +23,7 @@ main{
 }
 
 #loader {
-    border-top: 10px solid #3498db;
+    border-top: 11px solid #3498db;
     border-radius: 50%;
     width: 150px;
     height: 150px;
@@ -40,7 +40,7 @@ main{
     height: 100px;
     animation: spin 3s linear infinite;
     background-color: lightgoldenrodyellow;
-    padding: 30px 30px 22px;
+    padding: 28px 30px 22px;
 }
 
 #loader3 {
