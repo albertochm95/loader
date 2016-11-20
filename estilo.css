@@ -53,7 +53,7 @@ main{
 }
 
 #contenido{
-    display: none;
+    display: static;
     height: calc(100%);
 }
 
